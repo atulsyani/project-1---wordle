@@ -1,2 +1,55 @@
-# project-1---wordle
-wordle project 1 for IOS 101 Codepatb
+# Project 1 - *Wordle*
+
+Submitted by: **Armaan Tulsyani**
+
+**Wordle** is an app that allows you to guess a word and keep guessing until you get it correct
+
+Time spent: **4** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [X] App displays a keyboard on the screen
+- [X] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [X] User can play a basic version of Wordle, with different goal words each time
+
+The following **optional** features are implemented:
+
+- [X] Improve and customize the user interface by adding a launchscreen and app icon
+- [X] Run the app on a device rather than in the simulator
+
+The following **additional** features are implemented:
+
+- [X] List anything else that you can get done to improve the app functionality!
+
+## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/666b2101477e4b75920c8a6cfa5e0883">
+    </a>
+    <a href="https://www.loom.com/share/666b2101477e4b75920c8a6cfa5e0883">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/666b2101477e4b75920c8a6cfa5e0883-0f7fa7bac8d21a8b-full-play.gif">
+    </a>
+  </div>
+
+
+## Notes
+
+Encountered challenges with adding image asset for launch screen
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
